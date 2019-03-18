@@ -1,8 +1,0 @@
-"db.sqlite3" 
-"geckodriver.log" 
-"virtualenv" 
-"superlists\__pycache__" 
-"*.pyc" 
-"superlists/__pycache__/" 
-"__pycache__" 
-
